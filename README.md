@@ -14,6 +14,7 @@ To edit/view this project, the following software requirements apply:
 To use the bikeshare project, follow these steps:
 
 1. Clone the repository to your local machine.
+<<<<<<< HEAD
 
 2. Make sure you have Python installed.
 
@@ -71,4 +72,3 @@ The bikeshare project was developed as part of the Programming for Data Science 
 * Pandas Documentation: For the detailed documentation on the Pandas library, which was used for data manipulation and analysis.
 * NumPy Documentation: For the detailed documentation on the NumPy library, which was used for numerical computations.
 * GitHub: For providing a platform for version control and collaboration.
-
