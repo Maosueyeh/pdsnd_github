@@ -34,6 +34,32 @@ _**Note:** The bikeshare project requires the following data files to be present
  * chicago.csv
  * new_york_city.csv
  * wahington.csv
+ 
+## Contributing
+ We welcome contributions to the bikeshare project! If you would like to contribute, please follow these guidelines:
+ 
+ 1. Fork the repository on GitHub.
+ 
+ 2. Clone your forked repository to your local machine.
+ 
+ 3. Create a new branch for your contribution:
+
+ `git checkout -b feature/your-feature-name`
+
+4.  Make your changes and ensure that the code follows the project's coding style and guidelines.
+
+5. Commit your changes with descriptive commit messages:
+
+  `git commit -m "Add feature: your feature name"`
+6. Push your branch to your forked repository:
+7. Open a pull request on the original repository and provide a detailed description of your changes.
+
+8. Wait for the project maintainers to review your pull request and address any feedback if necessary.
+
+9. Once approved, your changes will be merged into the main project.
+Please note that by contributing to the bikeshare project, you agree to abide by the project's [Code of Conduct](https://learn.udacity.com/nanodegrees/nd104/parts/cd0419/lessons/ls1882/concepts/link-to-code-of-conduct). Any contributions that violate the code of conduct will not be accepted.
+
+We appreciate your contributions and thank you for helping to improve the bikeshare project!
 
 ## Credits
 
